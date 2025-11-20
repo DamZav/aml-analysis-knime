@@ -1,6 +1,3 @@
-# aml-analysis-knime
-Prediction of suspicious money laundering transactions using realistic synthetic data. Exploratory analysis, visualization of geographic patterns, variable coding, and training of supervised models (Logistic Regression and Tree Ensemble). Evaluation with metrics such as F1-score and Kappa. Flow built in KNIME with Python support for preprocessing.
-
 # Suspicious Transaction Detection (AML)
 
 This repository contains an end-to-end analytical workflow for detecting suspicious financial transactions associated with money laundering (AML). The project combines Python preprocessing with a low-code/no-code modeling pipeline in KNIME to identify high-risk patterns and evaluate supervised machine learning models using a realistic synthetic dataset.
