@@ -38,7 +38,10 @@ Money laundering remains a critical challenge for financial institutions due to 
 - Accuracy: ~99.99%  
 - Recall: 0.60  
 - Precision: 1.00  
-- F1 score: 0.75  
+- F1 score: 0.75
+  ![Results](assets/logisticRegressionResults.png)
+
+
 
 ### Tree Ensemble (Random Forest)
 - Detects 80% of true suspicious transactions  
