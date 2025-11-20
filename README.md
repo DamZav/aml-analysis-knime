@@ -34,12 +34,12 @@ Money laundering remains a critical challenge for financial institutions due to 
 
 ## Results
 
-### Logistic Regression
+### Logistic Regression   ![Image](graphs/logisticRegressionResults.png)
 - Accuracy: ~99.99%  
 - Recall: 0.60  
 - Precision: 1.00  
 - F1 score: 0.75
-  ![Results](assets/logisticRegressionResults.png)
+
 
 
 
