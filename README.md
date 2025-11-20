@@ -34,20 +34,22 @@ Money laundering remains a critical challenge for financial institutions due to 
 
 ## Results
 
-### Logistic Regression   ![Image](graphs/logisticRegressionResults.png)
+### Logistic Regression
 - Accuracy: ~99.99%  
 - Recall: 0.60  
 - Precision: 1.00  
 - F1 score: 0.75
 
-
+ ![Image](graphs/logisticRegressionResults.png)
 
 
 ### Tree Ensemble (Random Forest)
 - Detects 80% of true suspicious transactions  
 - F1 score: 0.88  
 - Cohen’s Kappa: ~0.889  
-- Preferred model due to robustness and ability to capture complex transaction behaviors  
+- Preferred model due to robustness and ability to capture complex transaction behaviors
+
+ ![Image](graphs/randomForestResults.png)
 
 ## Impact
 
